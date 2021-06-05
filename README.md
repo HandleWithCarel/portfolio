@@ -1,5 +1,5 @@
-# Getting Started with Create React App
 
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 Carel's portfolio project
+=======
+>>>>>>> eeb68bd4ef07ef83b375de450dfbfa6925cd1f93
